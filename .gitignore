@@ -1,0 +1,18 @@
+# API keys — never commit
+backend/appsettings.json
+
+# .NET build output
+backend/bin/
+backend/obj/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+*.user
+.vscode/
+
+# Qdrant local storage (if any)
+qdrant_storage/
