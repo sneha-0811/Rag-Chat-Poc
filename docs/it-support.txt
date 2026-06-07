@@ -1,0 +1,31 @@
+IT Support Policy
+
+All IT support requests must be raised via the helpdesk portal at helpdesk.company.com.
+Critical issues affecting business operations will be responded to within 1 hour.
+Standard requests are resolved within 2 business days.
+
+Hardware:
+Laptops are provided to all full-time employees upon joining.
+Laptop replacements are approved after 3 years of usage or in case of hardware failure.
+Employees are responsible for the safekeeping of company hardware.
+Lost or damaged equipment must be reported to IT within 24 hours.
+
+Software:
+All software installations must be approved by the IT department.
+Submit a software request via the helpdesk portal with a business justification.
+Unlicensed software is strictly prohibited on company devices.
+
+Access and Accounts:
+New employee account setup is completed within 1 business day of joining.
+VPN access must be requested through the IT department with manager approval.
+Password resets can be performed via the self-service portal at password.company.com.
+Employees must use strong passwords and enable two-factor authentication on all accounts.
+
+Remote Work:
+Employees working remotely must connect via company VPN for accessing internal systems.
+Company data must not be stored on personal devices or unauthorized cloud storage.
+
+Security:
+Phishing or suspicious emails must be reported to security@company.com immediately.
+USB drives and external storage devices are not permitted on company devices without IT approval.
+All company laptops have endpoint protection software installed and must not be disabled.
